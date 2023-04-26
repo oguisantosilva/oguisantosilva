@@ -1,10 +1,10 @@
 ### About me
 
 ```python
-class OGuiSantoSilva:
+class ReadMe:
   def __init__(self):
     self.name = "Guilherme Silva"
-    self.email = "oguisantosilva@gmail.com
+    self.email = "oguisantosilva@gmail.com"
     self.age = 17
 ```
 
