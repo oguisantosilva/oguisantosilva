@@ -8,8 +8,6 @@ class ReadMe:
         self.interests = ["Web Development", "CyberSecurity"]
 ```
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -21,10 +19,7 @@ class ReadMe:
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-FFFFFF.svg?style=for-the-badge&logo=Nodedotjs&logoColor=black" />
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-FFFFFF.svg?style=for-the-badge&logo=Tailwindcss&logoColor=black" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=black" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FFFFFF.svg?style=for-the-badge&logo=Linux&logoColor=black" />
 </div>
-
----
 
 ## 📫 Contact Me
 
